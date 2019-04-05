@@ -10,6 +10,7 @@
         <module name="springcloudconfig" />
         <module name="springcloudconsumer" />
         <module name="springcloudproducer" />
+        <module name="springcloudzuul" />
         <module name="springcoloudeureka" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,7 @@
       <module name="springcloudconfig" target="1.8" />
       <module name="springcloudconsumer" target="1.8" />
       <module name="springcloudproducer" target="1.8" />
+      <module name="springcloudzuul" target="1.8" />
       <module name="springcoloudeureka" target="1.8" />
     </bytecodeTargetLevel>
   </component>

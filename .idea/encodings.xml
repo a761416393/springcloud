@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/springcloudconsumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudconsumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudproducer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudzuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcoloudeureka" charset="UTF-8" />
   </component>
 </project>
